@@ -5,7 +5,7 @@
 ## ✔️ 설명
 ㆍ2022-2 모바일 앱 프로젝트 과제를 제출하기 위해 나의 포트폴리오 모바일 웹 사이트를 제작하였다. <br>
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 나오게끔 하였으며, 메뉴를 통해 총 4개의 웹 페이지로 이동될 수 있도록 하였다. <br>
-ㆍ본 파일은 Visual Studio Code<a href="(https://code.Visual Studio.com/)/products/Visual Studio.html" title="Visual Studio"><img src="https://github.com/get-icon/geticon/raw/master/icons/Visual Studio.svg" alt="Visual Studio" width="21px" height="21px"></a> Visual Studio로 개발되었다. <br>
+ㆍ본 파일은 Visual Studio Code<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a> Visual Studio로 개발되었다. <br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
 ㆍ본 파일은 Windows, Mac 등의 환경에서 확인이 가능하다. <br>
 ㆍ본 파일은 반응형 웹 페이지로 구성(개발, 제작)되어 있다. <br>
