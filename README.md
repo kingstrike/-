@@ -4,7 +4,7 @@
 
 ## ☞ 설명
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 나오며, 메뉴를 통해 4개의 웹 페이지로 이동될 수 있다. <br>
-ㆍ개발 툴 : <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a> Visual Studio<br>
+ㆍ개발 프로그램 : <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a> Visual Studio<br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
 ㆍ본 파일은 Windows <a href="https://www.microsoft.com/ko-kr/products/.html" title="microsoft-windows"><img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="microsoft-windows" width="21px" height="21px"></a>,Mac<a href="https://www.apple.com/kr/products/.html" title="aplle"><img src="https://github.com/get-icon/geticon/raw/master/icons/apple.svg" alt="apple" width="21px" height="21px"></a>에서 확인이 가능하다<br>
 ㆍ본 파일은 반응형 웹 페이지로 구성(개발, 제작)하였다. <br>
