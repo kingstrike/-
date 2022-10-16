@@ -2,7 +2,7 @@
 
 나의 모바일 포트폴리오 웹 페이지 바로 가기 ☞(https://kingstrike.github.io/mportpolio/) <br>
 
-## ✔️ 설명
+## ☞ 설명
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 나오며, 메뉴를 통해 4개의 웹 페이지로 이동될 수 있다. <br>
 ㆍ개발 툴 : <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a> Visual Studio<br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
