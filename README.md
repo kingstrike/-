@@ -19,5 +19,4 @@
 ㆍ경력사항 : 나의 경력을 볼 수 있는 웹 사이트이다. 
 
 
-## 📱 레이아웃
-![레이아웃](https://github.com/SeulJaeHyuk/mportpolio/blob/main/img/readmeimg.png) 
+## 
