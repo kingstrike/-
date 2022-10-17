@@ -4,7 +4,7 @@
 
 ## ✔️ 설명
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 있고, 4개의 페이지로 이동이 가능하다.<br>
-ㆍ본 파일은 Visual Studio Code <<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+ㆍ본 파일은 Visual Studio Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 로 개발되었다. <br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
 ㆍ본 파일은 Windows, Mac, Android, ios 등의 환경에서 확인이 가능하다. <br>
