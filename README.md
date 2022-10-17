@@ -4,12 +4,9 @@
 
 ## ✔️ 설명
 ㆍ좌측 상단의 메뉴 버튼을 통해 메뉴가 있고, 4개의 페이지로 이동이 가능하다.<br>
-ㆍ본 파일은 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>Visual Studio Code 로 개발되었다. <br>
+ㆍ개발 프로그램 :  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>Visual Studio Code 로 개발되었다. <br>
 ㆍ본 파일에는 HTML, CSS, JS(JavaScript)가 사용되었다. <br>
-ㆍ본 파일은 Windows, Mac, Android, ios 등의 환경에서 확인이 가능하다. <br>
 ㆍ본 파일은 반응형 웹 페이지로 구성(개발, 제작)되어 있다. <br>
-ㆍ본 파일은 폰트가 적용되어 있다. <br>
-ㆍ본 파일은 UI Kit가 적용되어 있다. <br>
 
 ## 🔥웹 페이지별 설명
 ㆍ자기소개(Main) : 페이지 접속시 제일 먼저 보이는 메인 페이지로, 나를 소개하는 웹 페이지이다. <br>
