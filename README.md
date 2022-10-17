@@ -17,5 +17,5 @@
 ㆍ경력사항 : 나의 경력을 볼 수 있고,앞으로의 각오를 볼수 있는 웹 페이지이다. 
 
 
-## 📱 레이아웃 
-![레이아웃](https://github.com/kingstrike/Mportpolio/blob/main/img/readmeimg.png) 
+## 📱 화면구성 
+![화면](https://github.com/kingstrike/Mportpolio/blob/main/img/readmeimg.png) 
