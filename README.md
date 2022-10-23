@@ -16,7 +16,7 @@
 
 
 ## Apache Echart
-(https://github.com/kingstrike/mportpolio/blob/main/img/Echart.PNG) 
+![레이아웃](https://github.com/kingstrike/mportpolio/blob/main/img/Echart.PNG) 
 
 ## ✍️ 화면구성
 ![레이아웃](https://github.com/kingstrike/mportpolio/blob/main/img/과제스샷.png) 
