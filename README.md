@@ -20,7 +20,7 @@
 ㆍ본 그래프는 Echart Bar->Basic Bar를 사용했다.<br>
 ㆍProgramming Language : 학교에서 전공한 언어 사용 능력을 그래프로 나타냈다.<br>
 ㆍEdit Tool : 취미로 하고있는 편집분야 사용 능력을 그래프로 나타냈다.<br>
-ㆍComputer Office Skill : 현재 사용할 수 있는 사무 숙련도를 그래프로 나타냈다.<br>
+ㆍComputer Office Skill : 현재 사용할 수 있는 사무  숙련도를 그래프로 나타냈다.<br>
 ㆍOS : 내가 알고있는 OS의 정보 및 숙련도를 그래프로 나타냈다.
 ![레이아웃](https://github.com/kingstrike/mportpolio/blob/main/img/Echart.PNG) 
 
