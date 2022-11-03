@@ -16,7 +16,7 @@
 ㆍ언어숙련도 : 나의 언어숙련도를 그래프로 볼 수 있는 웹 페이지 이다.
 
 
-## ✍️ Apache Echart 
+## ✍️ Echart 
 ㆍ본 그래프는 Echart Bar->Basic Bar를 사용했다.<br>
 ㆍProgramming Language : 학교에서 전공한 언어 사용 능력을 그래프로 나타냈다.<br>
 ㆍEdit Tool : 취미로 하고있는 편집분야 사용 능력을 그래프로 나타냈다.<br>
